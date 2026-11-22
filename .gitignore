@@ -1,0 +1,30 @@
+# ---- CONFIDENTIAL company data: never commit ----
+data/
+rules/
+runs/
+*.xml
+*.xlsx
+*.xlsm
+*.sydbcache
+*.pkl
+*.pt
+*.pth
+*.csv
+
+# ---- Python ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+*.swp
+*.swo
+.vim/
+
+# ---- logs ----
+*.log
+nohup.out
